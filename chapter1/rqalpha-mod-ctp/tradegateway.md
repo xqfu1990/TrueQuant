@@ -12,5 +12,5 @@ _\_retry\_times: 尝试连接的次数，默认5次_
 
 _\_cache: 缓存，DataCache\(\)对象_
 
-\__query\_returns: _
+\__query\_returns: 查询结果，默认是空字典{}_
 
