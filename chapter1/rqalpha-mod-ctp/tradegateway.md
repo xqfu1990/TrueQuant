@@ -14,3 +14,5 @@ _\_cache: 缓存，DataCache\(\)对象_
 
 \__query\_returns: 查询结果，默认是空字典{}_
 
+_\_data\_update\_date: 数据更新时间，默认是date.min，即0001-01-01_
+
