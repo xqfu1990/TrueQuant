@@ -4,13 +4,13 @@
 
 **属性**
 
-_\_env_:  环境，是个对象，里面包含了rqalpha所有的配置信息
+_\_env:  环境，需要构造对象是赋值，是个对象，里面包含了rqalpha所有的配置信息_
 
-_\_retry\_times: _尝试连接的次数，默认5次
+_\_retry\_times: 尝试连接的次数，默认5次_
 
 \__retry\_interval:每次间隔的时间，默认1秒_
 
-\__cache: _缓存，DataCache\(\)对象
+_\_cache: 缓存，DataCache\(\)对象_
 
-
+\__query\_returns: _
 
