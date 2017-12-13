@@ -16,3 +16,19 @@ _\_cache: 缓存，DataCache\(\)对象_
 
 _\_data\_update\_date: 数据更新时间，默认是date.min，即0001-01-01_
 
+_td\_api:交易服务器的api，默认是None_
+
+**注意：构造方法中**
+
+将_get\_ins\_dict_\(\)方法添加了Environment类\(rqalpha.environment\)的方法
+
+```
+Environment.get_ins_dict = self.get_ins_dict
+```
+
+```
+
+```
+
+
+
