@@ -1,6 +1,4 @@
-# rqalpha-mod-ctp
-
-
+# Mod
 
 
 
