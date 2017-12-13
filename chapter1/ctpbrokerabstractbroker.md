@@ -20,7 +20,13 @@ Rqalpha将产生的订单提交给此对象，此对象负责对订单进行撮�
 
   参数
 
-* get\__open\__orders\(order\)
+* get_openorders\(order\__book_\_id_\)
+
+* cancel\_order\(order\)
+
+  撤单。
+
+  参数
 
 
 
