@@ -26,9 +26,15 @@ _td\_api:交易服务器的api，默认是None_
 Environment.get_ins_dict = self.get_ins_dict
 ```
 
+**方法**
 
+_connect\(user\_id, password, broker\_id, td\_address\): _
 
+user\_id: str. 用户Id代码
 
+password: str. 用户密码
 
+broker\_id: str. 经纪公司代码
 
+td\_address: str. 交易服务器地址
 
