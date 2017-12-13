@@ -20,15 +20,15 @@ _td\_api:交易服务器的api，默认是None_
 
 **注意：构造方法中**
 
-将_get\_ins\_dict_\(\)方法添加了Environment类\(rqalpha.environment\)的方法
+将 _get\_ins\_dict_\(\) 方法添加为Environment类 \(rqalpha.environment\) 的方法
 
 ```
 Environment.get_ins_dict = self.get_ins_dict
 ```
 
-```
 
-```
+
+
 
 
 
