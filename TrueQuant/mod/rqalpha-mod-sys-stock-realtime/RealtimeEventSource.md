@@ -6,11 +6,11 @@
 
 * \_env: Environment对象. 包含了rqalpha所有的配置信息
 * mod\_config：存储了这个mod的配置文件
-* fps：
+* fps：停留时间，设定程序加入新的事件的间隔时间
 * event\_queue：事件队列
-* before-trading-fire-date: 
-* after-trading-fire-date:
-* settlement-fire-date:
+* before-trading-fire-date:  上一次触发before\_trading事件的日期
+* after-trading-fire-date: 上一次触发after\_trading事件的日期
+* settlement-fire-date: 上一次触发settlement事件的日期
 
 **构造方法**
 
