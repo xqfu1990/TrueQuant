@@ -6,4 +6,5 @@
     * [CtpBroker\(AbstractBroker\)](chapter1/rqalpha-mod-ctp/ctpbrokerabstractbroker.md)
     * [TradeGateway](chapter1/rqalpha-mod-ctp/tradegateway.md)
     * [CtpTdApi](chapter1/rqalpha-mod-ctp/ctptdapi.md)
+  * [DirectDataSource](chapter1/directdatasource.md)
 
