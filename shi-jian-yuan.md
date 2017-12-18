@@ -14,13 +14,11 @@ def _init(self, event):
        print("系统初始化了")
 ```
 
-
-
 ### 事件源分类
 
 SystemEvent：系统事件源
 
 MarketEvent：市场及数据事件源
 
-
+OrderEvent：交易事件源
 
