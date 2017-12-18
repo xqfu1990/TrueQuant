@@ -11,7 +11,7 @@ env.event_bus.add_listener(EVENT.POST_SYSTEM_INIT,self._init)
 
 ```
 def _init(self, event):
-       print("系统初始化了")
+    print("系统初始化了")
 ```
 
 当Bar数据生成，则会触发
