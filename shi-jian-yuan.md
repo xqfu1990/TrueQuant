@@ -20,11 +20,15 @@ def _init(self, event):
 * 当订单成交，则会触发`EVENT.TRADE`事件，那么系统的账户模块因为注册了该事件，就可以立即计算成交以后的收益和资金变化。
 * 当订单下单，则会触发`EVENT.ORDER_PENDING_NEW`事件，前端风控模块注册了该事件，则可以立即对该订单进行审核，如果不满足风控要求，则直接指定执行`order._cancel(some_reason)`来保证有问题的订单不会进入实际下单环节。
 
-### 事件源分类
+# 事件源分类
 
 SystemEvent：系统事件源
 
 MarketEvent：市场及数据事件源
 
 OrderEvent：交易事件源
+
+# 事件源的扩展
+
+
 
