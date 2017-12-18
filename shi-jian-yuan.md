@@ -30,5 +30,5 @@ OrderEvent：交易事件源
 
 # 事件源的扩展
 
-
+事件发布：publish\_event
 
