@@ -12,7 +12,7 @@ rqalpha\_mod\_sys\_accounts\account\_model\benchmark\_account.py  修改
 price=event.bar_dict[self.benchmark].open
 ```
 
-D:\Program Files \(x86\)\Anaconda3\Lib\site-packages\rqalpha\mod\rqalpha\_mod\_sys\_simulation\simulation\_event\_source.py
+rqalpha\_mod\_sys\_simulation\simulation\_event\_source.py 修改
 
 
 
