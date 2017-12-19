@@ -9,5 +9,6 @@
     * [TradeGateway](chapter1/rqalpha-mod-ctp/tradegateway.md)
   * [事件源](chapter1/directdatasource.md)
   * [rqalpha-mod-sys-simulation](chapter1/rqalpha-mod-sys-simulation.md)
+    * [SimulationEventSource](chapter1/rqalpha-mod-sys-simulation/simulationeventsource.md)
 * [事件源](shi-jian-yuan.md)
 
