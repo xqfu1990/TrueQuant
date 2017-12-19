@@ -14,7 +14,11 @@ price=event.bar_dict[self.benchmark].open
 
 rqalpha\_mod\_sys\_simulation\simulation\_event\_source.py 修改
 
-
+```
+#设置bar的时间为早上9:30
+#dt_bar=date.replace(hour=15,minute=0)
+dt_bar=date.replace(hour=9,minute=30)
+```
 
 **数据问题**
 
