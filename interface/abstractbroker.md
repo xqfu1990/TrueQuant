@@ -26,11 +26,13 @@ TBD: 由 Broker 对象生成 Order 并返回？
 
 > cancel\_order\(order\)
 
- 撤单。
+撤单。
 
 **参数：**order\(Order\)—订单
 
-> get\_open\_orders\(self,order\_book\_id=None\): 获得当前未完成的订单
+> get\_open\_orders\(order\_book\_id=None\)
 
-返回：list\[:class:\`~Order\`\]
+ 获得当前未完成的订单
+
+**返回：**list\[Order\]
 
