@@ -6,6 +6,8 @@ RQAlpha将产生的订单提交给此对象，此对象负责对订单进行撮�
 
 在mod中，可以通过调用\`\`env.set\_broker\`\`来替换默认的Broker。
 
+
+
 **抽象方法**
 
 * get\_portfolio\(self\): 获取投资组合。
