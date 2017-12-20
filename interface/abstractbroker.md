@@ -22,5 +22,7 @@ TBD: 由Broker对象生成 Order 并返回？
 
 order: 订单
 
+* get\_open\_orders\(self,order\_book\_id=None\): 获得当前未完成的订单
+
 
 
